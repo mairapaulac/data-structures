@@ -24,4 +24,10 @@ Wild pointers are also known as uninitialized pointers.
 Dynamic memory --> Heap, runtime
 Static memory --> stack, compile time
 
-Memory allocated by calloc is initialized to 0. 
+Memory allocated by calloc is initialized to 0.
+
+Self Referential Structure is a structure wich contains a pointer to a structure of
+the same type. 
+
+
+
