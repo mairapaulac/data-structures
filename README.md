@@ -1,6 +1,6 @@
 # Estruturas de Dados em C
 
-Este repositório tem como objetivo documentar meu progresso nas implementações das **estruturas de dados** na linguagem **C**. Os exercícios e implementações serão inspirados e adaptados de plataformas como **Beecrowd**, **LeetCode** e **Codeforces**.
+Este repositório tem como objetivo documentar meu progresso nas implementações das **estruturas de dados** na linguagem **C**. Os exercícios e implementações serão retirados de plataformas como **Beecrowd**, **LeetCode** e **Codeforces**.
 
 ---
 
