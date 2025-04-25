@@ -6,6 +6,7 @@ typedef struct node {
     struct node *next;
 } node;
 
+//criando a cabeça da lista
 void create_head(node **head) {
     *head = (node*)malloc(sizeof(node));
     if (*head != NULL) {
@@ -14,6 +15,7 @@ void create_head(node **head) {
     }
 };
 
+//inserindo ao final
 void insert_end(node **head, int value) {
     node *new_node = (node*)malloc(sizeof(node));
     if (new_node == NULL) {
