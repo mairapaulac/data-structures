@@ -1,10 +1,10 @@
-# LINKED LISTS
+# Listas Encadeadas
 
 **Definição**: Estrutura dinâmica que guarda elementos em sequência linear, onde cada elemento contém um campo para dados e outro para armazenar o endereço de memória (ponteiro) para o próximo nó da sequência. **Não requer alocação sequencial e é muito eficiente em inserção/remoção.**       
 
 ___
 
-### Tipos de linked list
+### Tipos de lista
 
 - Singly linked list.    
     - O último nodo é nulo, o que indica o final da lista.
@@ -14,7 +14,7 @@ ___
     - O último nodo é ligado ao primeiro, formando um loop. 
     - Nos permite percorrer a lista sem nenhuma interrupção.      
 
-### Operações numa linked list
+### Operações na lista
 
 - Tamanho da lista.
 - Mostrar a lista.
