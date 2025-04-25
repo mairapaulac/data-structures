@@ -1,5 +1,4 @@
-<h1>SINGLY LINKED LIST </h1>
+# SINGLY LINKED LISTS
 
-teste teste teste
-lalalalalal
-testes testes testes
+Definition: dynamic data structure that stores elements in a linear sequence, where each element contains data and pointer to the next node in the sequence. **It does not require contiguous memory allocation**
+
