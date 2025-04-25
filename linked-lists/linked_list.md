@@ -14,5 +14,15 @@ ___
     - O último nodo é ligado ao primeiro, formando um loop. 
     - Nos permite percorrer a lista sem nenhuma interrupção.      
 
-___
+### Operações numa linked list
+
+- Tamanho da lista.
+- Mostrar a lista.
+- Inserir na lista.
+- Busca na lista.
+- Deletar de acordo com uma posição.
+- Deletar de acordo com um valor.
+- Deletar a lista.
+- N-ésimo nó do início.
+- N-ésimo nó do fim.
 
