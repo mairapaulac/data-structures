@@ -34,7 +34,7 @@ void insert_end(node **head, int value) {
     }
 }
 
-// inserindo no começo
+//inserindo no começo
 void insert(node **head, int value) { 
     node *new_node = (node*)malloc(sizeof(node));
     if (new_node == NULL) {
@@ -43,9 +43,10 @@ void insert(node **head, int value) {
 
         new_node->data = value;
         new_node->next = *head;
-        *head = new_node;
-        
+        *head = new_node;  
 }
+
+
 
 int main (void) {
 
