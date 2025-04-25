@@ -8,7 +8,7 @@ Este repositório tem como objetivo documentar meu progresso nas implementaçõe
 
 Abaixo estão listadas as estruturas de dados fundamentais que serão implementadas ao longo do tempo, juntamente com suas variações, operações principais e aplicações:
 
-### 🔹 Estruturas Lineares
+### Estruturas Lineares
 - [ ] **Lista Encadeada (Linked List)**
   - Lista Simples
   - Lista Duplamente Encadeada
