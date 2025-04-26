@@ -9,27 +9,27 @@ Este repositório tem como objetivo documentar meu progresso nas implementaçõe
 Abaixo estão listadas as estruturas de dados fundamentais que serão implementadas ao longo do tempo, juntamente com suas variações, operações principais e aplicações:
 
 ### Estruturas Lineares
--**Lista Encadeada (Linked List)**
+**Lista Encadeada (Linked List)**
   - Lista Simples
   - Lista Duplamente Encadeada
   - Lista Circular
-- [ ] **Pilha (Stack)**
-- [ ] **Fila (Queue)**
+-**Pilha (Stack)**
+-**Fila (Queue)**
   - Fila Circular
   - Fila com Duas Pilhas
 
 ### Estruturas Não Lineares
--**Árvores (Trees)**
+**Árvores (Trees)**
   - Árvore Binária
   - Árvore Binária de Busca (BST)
   - Árvore AVL (auto balanceada)
-- [ ] **Grafos (Graphs)**
+-**Grafos (Graphs)**
   - Representação por Lista de Adjacência
   - Representação por Matriz de Adjacência
   - Algoritmos: DFS, BFS, Dijkstra
 
 ### Tabelas e Mapas
--**Hash Table (Tabela Hash)**
+**Hash Table (Tabela Hash)**
   - Resolução de colisão: encadeamento e endereçamento aberto
 
 
