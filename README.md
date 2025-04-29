@@ -13,8 +13,8 @@ Abaixo estão listadas as estruturas de dados fundamentais que serão implementa
   - Lista Simples
   - Lista Duplamente Encadeada
   - Lista Circular          
-**-Pilha (Stack)**         
-**-Fila (Queue)**
+**Pilha (Stack)**         
+**Fila (Queue)**
   - Fila Circular
   - Fila com Duas Pilhas
 
@@ -23,7 +23,7 @@ Abaixo estão listadas as estruturas de dados fundamentais que serão implementa
   - Árvore Binária
   - Árvore Binária de Busca (BST)
   - Árvore AVL (auto balanceada)
--**Grafos (Graphs)**
+**Grafos (Graphs)**
   - Representação por Lista de Adjacência
   - Representação por Matriz de Adjacência
   - Algoritmos: DFS, BFS, Dijkstra
