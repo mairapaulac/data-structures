@@ -13,8 +13,8 @@ Abaixo estão listadas as estruturas de dados fundamentais que serão implementa
   - Lista Simples
   - Lista Duplamente Encadeada
   - Lista Circular
--**Pilha (Stack)**
--**Fila (Queue)**
+**-Pilha (Stack)**
+**-Fila (Queue)**
   - Fila Circular
   - Fila com Duas Pilhas
 

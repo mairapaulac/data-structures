@@ -4,13 +4,13 @@
 
 ___
 
-### Tipos de lista
+### Implementações de listas encadeadas
 
-- Singly linked list.    
+- Lista encadeada simples.    
     - O último nodo é nulo, o que indica o final da lista.
-- Doubly linked list.     
+- Lista encadeada dupla.     
     - Cada nodo na lista contém um ponteiro para o nodo anterior e um para o próximo.
-- Circular linked list.      
+- Lista encadeada circular.      
     - O último nodo é ligado ao primeiro, formando um loop. 
     - Nos permite percorrer a lista sem nenhuma interrupção.      
 
