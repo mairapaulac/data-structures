@@ -9,4 +9,3 @@ ___
 
 - Implementação de pilha com arrays
 - Implementação de pilha com lista encadeada
-- Implementação de pilha com deque
